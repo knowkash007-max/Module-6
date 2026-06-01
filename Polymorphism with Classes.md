@@ -48,6 +48,7 @@ func(obj_mango)
 ```
 ## Output
 <img width="381" height="293" alt="image" src="https://github.com/user-attachments/assets/8bc6be3e-9555-4d39-931e-97340aeaa19b" />
+
 ## Result
 Successfully created two specific classes — Beans and Mango. Then, created a generic function that can accept any object and determine its type (Fruit or Vegetable) and color, using polymorphism.
 
